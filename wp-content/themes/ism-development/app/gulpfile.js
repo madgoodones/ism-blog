@@ -24,7 +24,7 @@ var js = [
     './vendors/wow/dist/wow.min.js',
     './js/main.js',
     './js/*.js',
-    'vendors/owl.carousel/dist/owl.carousel.min.js',
+    './vendors/owl.carousel/dist/owl.carousel.min.js',
     './vendors/aos/dist/aos.js',
     './vendors/bootstrap-sass/assets/javascripts/bootstrap.min.js',
     './vendors/jquery-validation/dist/jquery.validate.js',

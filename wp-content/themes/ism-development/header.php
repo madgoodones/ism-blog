@@ -18,7 +18,6 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 <?php wp_head() ?>
-<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/f8f63008-1471-4049-8af3-2a66c0995b4e-loader.js"></script>
 </head>
 <body <?php body_class() ?>>
 

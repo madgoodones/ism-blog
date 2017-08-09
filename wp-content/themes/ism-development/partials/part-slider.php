@@ -14,7 +14,7 @@ $args = array(
 		<div class="item">
 		
 			<?php if(get_field('slider_has_url')): ?>
-			<a href="<?php the_field('slider_url') ?>" class="go-slider-image">
+			<a href="<?php the_field('slider_url') ?>" target="_blank" class="go-slider-image">
 				<img src="<?php the_field('slider_image') ?>" alt="">
 			</a>
 			<?php else: ?>

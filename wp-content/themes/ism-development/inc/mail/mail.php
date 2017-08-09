@@ -50,9 +50,9 @@ $mail->CharSet = 'UTF-8';
 
 //$from = "email@cliente.com.br";
 
-$from = "contato@gridworks.com.br"; // debug
+$from = "cleo@ismseguros.com.br"; // debug
 
-$fromName = 'Meu Seguro ISM';
+$fromName = 'ISM Seguros';
 
 
 

@@ -96,7 +96,7 @@ $( document ).ready(function() {
 	      $waiting.css('display', 'block');
 	      $this.ajaxSubmit({
 	      type: 'POST',
-	      url: 'http://localhost/blog/wp-content/themes/ism-development/inc/mail/mail.php',
+	      url: 'http://meuseguroism.com.br/wp-content/themes/ism-development/inc/mail/mail.php',
 
 	      success: function(response) {
 	        $this[0].reset();
