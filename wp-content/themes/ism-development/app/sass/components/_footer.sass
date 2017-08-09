@@ -1,0 +1,41 @@
+footer
+	background-color: #263238
+	color: #fff
+	padding: 60px 0px
+	border-top: 10px solid $color-1
+	display: table
+	width: 100%
+	.inner
+		+md(10)
+		+md-off(1)
+		+breakpoint($tablet)
+			text-align: center
+		&-item
+			+make(4,4,12)
+			padding: 15px
+			ul
+				list-style-type: none
+				margin: 0
+				padding: 0
+			.title
+				+font-size(30px)
+				font-weight: bold
+				margin-bottom: 12px
+
+.corp-footer
+	background-color: $color-1
+	display: table
+	width: 100%
+	.inner
+		+make(10,10,10)
+		+make-offset(1,1,1)
+		padding: 15px 0px
+		color: #fff
+		&-left
+			float: left
+		&-right
+			float: right
+			font-weight: bold
+			a
+				font-size: 18px
+				margin: 0px 6px
