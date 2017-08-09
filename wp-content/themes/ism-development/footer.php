@@ -28,14 +28,8 @@
 		</div>
 
 		<div class="inner-right">
-			<a href="">
+			<a href="https://www.facebook.com/IsmCorretoraDeSeguros/?fref=ts" target="_blank">
 				<i class="fa fa-facebook-official" aria-hidden="true"></i>
-			</a>
-			<a href="">
-				<i class="fa fa-twitter" aria-hidden="true"></i>
-			</a>
-			<a href="">
-				<i class="fa fa-linkedin" aria-hidden="true"></i>
 			</a>
 		</div>
 	</div>
